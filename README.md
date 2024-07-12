@@ -3,8 +3,6 @@
 
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
 
-<!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
-<!-- © 2021 TechieSneh -->
 
 <h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Works Only on Android & Android TV Through LocalHost <br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Put Your Own Credentials In This Script</h4>
 <br>
@@ -107,10 +105,6 @@ http://localhost:8080/jiotvweb/playlist.php
 
 
 ---
-<h4 align='center'>© 2022 Techie Sneh</h4>
-
-<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
-
 
 
 
