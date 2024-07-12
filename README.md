@@ -96,12 +96,6 @@ http://localhost:8080/jiotvweb/playlist.php
 - This is Just For Educational Purpose
 - DO NOT Sell this Script, This is 💯% Free
 
-<h3>🤗 Meet Me : </h3>
-
-• For any Support Join Our Group [Techie Sneh](https://t.me/techiesneh)<br>
-• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
-
-<br>
 
 
 ---
