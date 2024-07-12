@@ -4,7 +4,7 @@
 <h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
 
 
-<h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Works Only on Android & Android TV Through LocalHost <br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Credits<br>Don't Edit This Script 😈<br><br>Put Your Own Credentials In This Script</h4>
+
 <br>
 
 <h2>😇 Features :</h2>
