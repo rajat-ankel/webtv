@@ -35,8 +35,8 @@ https://apkcow.com/ksweb-server-php-mysql-mod-apk/download/
 
   ```
 
-• Then Download This Zip Files<br>
- - JioTV Zip <br> ( https://github.com/mitthu786/TS-JioTV/blob/main/jiotvweb.zip?raw=true ) <br>
+• Then Download This Zip Files
+
 
 • Locate & Extract all Files in LocalHost (Htdocs) Root Folder <br>
 • Put Your Mobile Number without +91 & Password in below Link <br>
