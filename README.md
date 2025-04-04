@@ -1,12 +1,4 @@
 
-<p align="center"><img src="https://images.firstpost.com/wp-content/uploads/2020/07/jio-tvplus-1280.jpg" width="180" height="100"></p>
-
-<h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
-
-
-
-<br>
-
 <h2>😇 Features :</h2>
 
 - HQ Streaming Free of Cost <br>
@@ -90,11 +82,6 @@ http://localhost:8080/jiotvweb/playlist.php
 
 <br>
  
-
-<h2>🚸 Warnings :</h2>
-
-- This is Just For Educational Purpose
-- DO NOT Sell this Script, This is 💯% Free
 
 
 
